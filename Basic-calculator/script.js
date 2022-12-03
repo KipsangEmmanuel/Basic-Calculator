@@ -26,6 +26,6 @@ function calculate (firstOperator, secondOperator) {
         result.textContent = parseInt(firstOperator) % parseInt(secondOperator)
     }
     else{
-        alert("Check the sign you entered")
+        alert("Check the sign you entered and try again")
     }
 }
