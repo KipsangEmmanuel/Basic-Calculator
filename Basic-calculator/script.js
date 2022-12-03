@@ -1,5 +1,5 @@
 //asking for the user input
-let nameOfOperator = prompt("Name of operation i.e (addition, subtraction etc").toUpperCase();
+let nameOfOperator = prompt("Name of operation i.e (addition, subtraction etc)").toUpperCase();
 let firstOperator = prompt("Enter first number");
 let operator = prompt("Enter the operand");
 let secondOperator = ("Enter second number");
